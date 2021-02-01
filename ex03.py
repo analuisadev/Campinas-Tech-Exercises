@@ -1,0 +1,11 @@
+from time import sleep
+print ('{:=^40}'.format(' MANUAL PNEU FURADO '))
+sleep(1)
+print ('Passos:')
+print ('1° Estacione em local plano')
+print ('2° Faça a sinalização de emergência')
+print ('3° Puxe o freio de mão, engrene o carro e afrouxe os parafusos')
+print ('4° Posicione o macaco corretamente')
+print ('5° Levante o carro a altura razoável')
+print ('6° Coloque o estepe e aperte os parafusos')
+print('7° Guarde o pneu furado e as ferramentas')
